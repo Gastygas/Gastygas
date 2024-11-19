@@ -2,7 +2,7 @@
 Soy Gaston Gonzalez, un desarrollador web full stack especializado en Back End con manejo de NestJS, TypeScript, PostgreSQL, y mas tecnologias.
 
 # Sobre mí
-Me dedico a realizar proyectos que me ayudan a mejorar como programador. Hace 1 año me dedico a esto y quiero que sea para siempre.
+Soy un desarrollador apasionado por crear proyectos que impulsen mi crecimiento profesional y técnico. Con un año de experiencia en programación, estoy comprometido a seguir aprendiendo y perfeccionando mis habilidades para hacer de esta profesión una carrera de por vida.
 
 # Proyectos
  AlquilaYa: Aplicacion web desarrollada para facilitar la relacion cliente y vendedor para alquilar una propiedad.
