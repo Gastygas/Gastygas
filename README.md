@@ -6,6 +6,7 @@ Soy un desarrollador apasionado por crear proyectos que impulsen mi crecimiento 
 
 # Proyectos
  Vibra Oeste: Aplicacion web desarollada para atraer clientes de mi emprendimiento propio de alquiler de sonido
+
  link: https://vibraoeste.vercel.app/
 
  AlquilaYa: Aplicacion web desarrollada para facilitar la relacion cliente y vendedor para alquilar una propiedad.
