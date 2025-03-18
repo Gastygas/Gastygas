@@ -5,6 +5,9 @@ Soy Gaston Gonzalez, un desarrollador web full stack especializado en Back End c
 Soy un desarrollador apasionado por crear proyectos que impulsen mi crecimiento profesional y técnico. Con un año de experiencia en programación, estoy comprometido a seguir aprendiendo y perfeccionando mis habilidades para hacer de esta profesión una carrera de por vida.
 
 # Proyectos
+ Vibra Oeste: Aplicacion web desarollada para atraer clientes de mi emprendimiento propio de alquiler de sonido
+ link: https://vibraoeste.vercel.app/
+
  AlquilaYa: Aplicacion web desarrollada para facilitar la relacion cliente y vendedor para alquilar una propiedad.
  
   link: https://alquilaya.vercel.app/
